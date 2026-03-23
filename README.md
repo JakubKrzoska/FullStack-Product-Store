@@ -46,8 +46,8 @@ Building this project was a fantastic hands-on experience in connecting the dots
 
 ## 📷 Screenshots
 
-!(frontend/public/shop1.png)
-!(frontend/public/shop1.png)
+![Shop Screen 1](frontend/public/shop1.png)
+![Shop Screen 2](frontend/public/shop2.png)
 
 ## 🚀 How It Works & Getting Started
 
